@@ -1,7 +1,4 @@
-CASOS DE TESTE
-
 Etapa 1 - Subarranjo de soma máxima
-Entrada: n, seguido de n inteiros.
 
 Teste 1 - caso comum
 Entrada:
